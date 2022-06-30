@@ -1,0 +1,3 @@
+[submodule "javascript_step_by_step"]
+	path = javascript_step_by_step
+	url = https://gitlab.com/goldeneyes100/javascript_step_by_step.git
